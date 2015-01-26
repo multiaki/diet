@@ -1,0 +1,41 @@
+{
+    "diet": {
+        "title": "My diet",
+        "monday": {
+            "index": 0,
+            "title": "Завтрак 8:00",
+            "food": {
+}
+        },
+        "tuesday": {
+            "index": 1,
+            "title": "Второй Завтрак 11:00",
+            "food": {}
+        },
+		"tuesday": {
+            "index": 2,
+            "title": "Обед 2:00",
+            "food": {}
+        },
+		"tuesday": {
+            "index": 3,
+            "title": "Полдник 5:00",
+            "food": {}
+        },
+		"tuesday": {
+            "index": 4,
+            "title": "Ужин 7:00",
+            "food": {}
+        },
+		"tuesday": {
+            "index": 5,
+            "title": "Перед Сном 9:00",
+            "food": {}
+        },
+		"tuesday": {
+            "index": 6,
+            "title": "Второй Завтрак 11:00",
+            "food": {}
+        },
+    }
+}
